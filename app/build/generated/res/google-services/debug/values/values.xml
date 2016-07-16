@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">763343648584-2pks8gsi232c2iv5vao100fvbd5dp48b.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://marks-dank-burgers-f197a.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">763343648584</string>
+    <string name="google_api_key" translatable="false">AIzaSyCWQNoPO0DbGN37qGB7Zik3G0MJstdk8Mw</string>
+    <string name="google_app_id" translatable="false">1:763343648584:android:062880ad1655aebd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCWQNoPO0DbGN37qGB7Zik3G0MJstdk8Mw</string>
+    <string name="google_storage_bucket" translatable="false">marks-dank-burgers-f197a.appspot.com</string>
+</resources>

@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="23"
         android:targetSdkVersion="23" />
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
@@ -51,6 +51,11 @@
                 android:value="hackathon.viasat.marksdankburgers.LoginActivity" />
         </activity>
         <activity android:name="hackathon.viasat.marksdankburgers.dataretrieve" />
+        <activity
+            android:name="hackathon.viasat.marksdankburgers.Meal"
+            android:label="@string/title_activity_meal"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

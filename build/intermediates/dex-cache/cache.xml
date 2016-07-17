@@ -5,8 +5,8 @@
         jar="C:\Users\JJ\Mark&apos;sDankBurgers\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="aea72b4e4302ab8474b00377dca8924c14a5cbe9">
-        <dex dex="C:\Users\JJ\Mark&apos;sDankBurgers\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5aa1a697929df688c7bfa8d8ea0a3518e3281c43.jar" />
+        sha1="ce747508c1c8f0dc2dd53a639414d70ea6c9a97a">
+        <dex dex="C:\Users\JJ\Mark&apos;sDankBurgers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5aa1a697929df688c7bfa8d8ea0a3518e3281c43\classes.dex" />
     </item>
 
 </items>
